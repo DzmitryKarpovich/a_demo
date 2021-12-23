@@ -1,5 +1,5 @@
-apple
-banana
-orange
-nuts
-bread
+apple - 10
+banana - 15
+orange - 3
+nuts - 8
+bread - 1
