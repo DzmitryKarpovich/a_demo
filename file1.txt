@@ -1,4 +1,5 @@
 apple10
 banana300
 orange
-bread 60
+nuts
+bread
