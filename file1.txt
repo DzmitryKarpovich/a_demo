@@ -1,4 +1,4 @@
-apple1
+10apple1
 banana30
 orange
-bread
+bread 60
