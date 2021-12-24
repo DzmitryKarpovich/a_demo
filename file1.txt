@@ -1,4 +1,4 @@
-10apple1
-banana30
+apple10
+banana300
 orange
 bread 60
