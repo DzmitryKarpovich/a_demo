@@ -2,4 +2,4 @@ apple - 10$
 banana - 15$
 orange - 3BYN
 nuts - 8RUB
-bread - 1EUR
+bread - 2EUR
